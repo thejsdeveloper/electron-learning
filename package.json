@@ -1,0 +1,15 @@
+{
+  "name": "electron-4",
+  "version": "1.0.0",
+  "description": "This is learning repo for Electron",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "vikas yadav",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^6.0.3"
+  }
+}
