@@ -10,6 +10,6 @@
   "author": "vikas yadav",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^6.0.3"
+    "electron": "^11.5.0"
   }
 }
